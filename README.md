@@ -4,7 +4,6 @@ Frontend developer. Available for contract work.
 <h3 align="center">Frontend develope from Russia 🇷🇺, available for contract work.</h3>
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/simpleicons.svg" />
 
-**kepamuk/kepamuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
