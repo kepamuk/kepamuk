@@ -1,4 +1,14 @@
-Full-stack developer. Available for contract work.
-<h1 align="center">Hi there, I'm <a href="https://hh.ru/applicant/resumes/view?resume=1602c7f7ff0238b5f50039ed1f4a596d62317a" target="_blank">Stanislav</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Full-stack develope from Russia 🇷🇺, available for contract work.</h3>
+<h1 align="center">Hi there, I'm Stanislav 👋</h1>
+
+<h3 align="center">
+Senior Full-Stack JavaScript Engineer
+</h3>
+
+<p align="center">
+React • Next.js • TypeScript • Node.js • PostgreSQL • AI-assisted Development
+</p>
+
+<p align="center">
+Based in Batumi, Georgia 🇬🇪<br/>
+Available for Remote Full-time & Contract work.
+</p>
