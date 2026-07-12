@@ -9,6 +9,6 @@ React • Next.js • TypeScript • Node.js • PostgreSQL • AI-assisted Deve
 </p>
 
 <p align="center">
-Based in Batumi, Georgia 🇬🇪<br/>
+Based in Batumi, Georgia<br/>
 Available for Remote Full-time & Contract work.
 </p>
